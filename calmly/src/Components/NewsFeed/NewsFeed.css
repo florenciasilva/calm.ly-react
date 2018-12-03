@@ -1,0 +1,16 @@
+div.commentCard.card {
+    margin-left: 40%;
+    height: 20vh;
+    width: 100vh;
+    margin-top: 2%;
+}
+
+.newComment {
+    margin-left: 78%;
+    background-color: #47525E;
+}
+
+.newComment:hover {
+    background-color: #A9DAEE;
+    color: #000000;
+}

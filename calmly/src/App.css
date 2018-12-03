@@ -1,0 +1,22 @@
+body {
+  background-color: #D5E7F7;
+}
+
+div.nav-wrapper {
+  background-color: #A1CDF7;
+}
+
+nav ul a {
+  color:white;
+}
+
+i.material-icons{
+  color:white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
